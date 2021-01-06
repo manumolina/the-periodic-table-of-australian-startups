@@ -1,5 +1,4 @@
-# the-periodic-table-of-australian-startups
-Hurro! Thanks for checking out the periodic table of Australian startups. 
-Here are 118 completely selective startups we found on the internet and by far not exhaustive. Enjoy 🙏
+# the-periodic-table-of-catalan-triathlon-clubs 
+Només hi ha espai per a 118 clubs. Enjoy 🙏
 
-https://startups.shooting-unicorns.com/
+https://trirestat.cat/
