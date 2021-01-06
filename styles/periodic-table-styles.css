@@ -318,3 +318,29 @@ Pure Aesthetics
     box-shadow: 0 .5px rgb(231, 231, 231);
     transform: translateY(4px);
 }
+
+
+
+.barcelona {
+    background-color: rgba(247,219,22, .5);
+    color: white;
+    border: 2px solid rgb(247,219,22);
+}
+
+.tarragona {  
+    background-color: rgba(0, 216, 197, .5);
+    color: white;
+    border: 2px solid rgb(0, 216, 197);
+}
+
+.lleida {
+    background-color: rgba(184,119,102, .5);
+    color: white;
+    border: 2px solid rgb(184,119,102);
+}
+
+.girona {
+    background-color: rgba(25,145,231, .5);
+    color: white; 
+    border: 2px solid rgb(25,145,231);
+}

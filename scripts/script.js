@@ -3,6 +3,7 @@ var selectedCity = '';
 const maxScreenWidth = 1100;
 
 $('.element').hover(function() {
+  console.log("Hi");
   var startupName = ($(this).find('.name').text());
   var startupDescription = ($(this).find('.description').text());
   var selectedCityName = selectedCity.replace('.', '')
